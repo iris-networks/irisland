@@ -2,6 +2,10 @@
 
 This contains everything you need to run your app locally.
 
+## Related Projects
+
+This project is part of the Iris Networks ecosystem. For the command-line interface and terminal utilities, see the [Terminator project](../terminator).
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
